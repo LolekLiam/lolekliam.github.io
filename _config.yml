@@ -22,7 +22,7 @@ title: Wow Such Website
 email: liamstaric@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wow Such Website
-baseurl: "/404" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lolekliam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ravijol1
 github_username:  LolekLiam
